@@ -13,7 +13,7 @@ pool:
 
 variables:
   buildConfiguration: 'Release'
-  azureSubscription: <Name of the Azure subscription>
+  azureSubscription: Azure subscription 1
   appName: TestPipelineApp1
   
 steps:
